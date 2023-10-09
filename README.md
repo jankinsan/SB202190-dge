@@ -1,2 +1,2 @@
 # SB202190-dge
-DGE Analysis from CCLE for SB202190 vacuolation status
+DGE Analysis using CCLE for SB202190 vacuolation status
